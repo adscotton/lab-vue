@@ -56,7 +56,8 @@ No license specified. Please contact the owner for usage terms.
 
 ## Author
 
-```ANGELES, ETHAN GABRIEL
+```
+ANGELES, ETHAN GABRIEL
 ATABELO, KERR LAWRENCE
 BENEDICTO, ADRIAN LEI
 SAN MIGUEL, KEITH NICOLAI
