@@ -38,6 +38,17 @@ To get started with this project:
 
 4. Open your browser to `http://localhost:8080` (or the port shown in the terminal).
 
+## Sample Credentials for Testing
+
+Use the following credentials when testing authentication features:
+
+```
+Username: kminchelle
+Password: 0lelplR
+```
+
+_These are sample credentials for development/testing purposes only. Do not use in production._
+
 ## Project Structure
 
 The repository contains the typical Vue.js project folders, such as:
