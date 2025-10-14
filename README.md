@@ -1,6 +1,6 @@
 # lab-vue
 
-A public Vue.js lab project by [adscotton](https://github.com/adscotton).
+A public Vue.js lab project in (https://github.com/adscotton).
 
 ## Overview
 
@@ -56,7 +56,11 @@ No license specified. Please contact the owner for usage terms.
 
 ## Author
 
-[adscotton](https://github.com/adscotton)
+ANGELES, ETHAN GABRIEL
+ATABELO, KERR LAWRENCE
+BENEDICTO, ADRIAN LEI
+SAN MIGUEL, KEITH NICOLAI
+Reference: (https://github.com/adscotton)
 
 ---
 
