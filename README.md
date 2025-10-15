@@ -10,23 +10,18 @@
 - Adrian Lei Benedicto  
 - Keith Nicolai San Miguel  
 
----
 
 ## 📘 Project Overview
 
 This project demonstrates the development of a **front-end application** that consumes a **RESTful API**, as part of the course **Applications Development & Emerging Technologies 2 (Enterprise Back-End)**.  
 It features a login page, dashboard, and integration with API endpoints to display and manage data.
 
----
-
-## 🧩 Tech Stack
+## Tech Stack
 
 - **Frontend Framework:** Vue.js  
 - **Backend API:** Node.js / Express.js (or provided REST API)  
 - **Version Control:** Git & GitHub  
 - **Repository:** [https://github.com/adscotton/lab-vue](https://github.com/adscotton/lab-vue)
-
----
 
 ## Run the Development Server
 npm run dev
